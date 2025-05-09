@@ -20,7 +20,6 @@
             cargo
             rustc
             rustfmt
-            cargo-watch
             spacetimedb
             ;
         };

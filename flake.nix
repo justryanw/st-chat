@@ -20,6 +20,8 @@
             cargo
             rustc
             rustfmt
+            lld
+            binaryen
             spacetimedb
             ;
         };
